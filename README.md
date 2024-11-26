@@ -25,6 +25,5 @@ https://youtu.be/ChjXor_cOsI
 
 ## Membros do Projeto
 Lucimara de Souza Silva Amaral
-Stella
-Amanda Pepino
+Stella 
 Leticia Serrano
